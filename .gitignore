@@ -1,0 +1,9 @@
+secrets/
+srcs/.env
+.env
+*.txt
+.pem
+.key
+.crt
+
+data/
